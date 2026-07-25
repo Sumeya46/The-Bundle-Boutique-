@@ -1,0 +1,6 @@
+{
+  "name": "The Bundle Boutique",
+  "description": "Luxury curated gift boxes in Harar, Ethiopia for every celebration and loved one.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

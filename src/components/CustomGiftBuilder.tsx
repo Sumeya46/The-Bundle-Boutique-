@@ -34,7 +34,7 @@ export const CustomGiftBuilder: React.FC<CustomGiftBuilderProps> = ({
     { id: 'wedding', label: 'Wedding & Engagement', icon: '💒' },
     { id: 'self-care', label: 'Self-Care & Spa', icon: '🌸' },
     { id: 'just-because', label: 'Just Because', icon: '💝' },
-    { id: 'makeup', label: 'Makeup & Glam', icon: '💄' },
+    { id: 'beauty', label: 'Beauty & Glam', icon: '💄' },
     { id: 'jewelry', label: 'Jewelry & Luxury', icon: '💎' },
     { id: 'prayer-bundles', label: 'Prayer Bundles', icon: '📿' },
     { id: 'skincare', label: 'Skincare', icon: '✨' },

@@ -2,8 +2,8 @@ import { Category } from '../types';
 
 export const CATEGORIES: Category[] = [
   {
-    id: 'makeup',
-    name: 'Makeup',
+    id: 'beauty',
+    name: 'Beauty',
     description: 'Curated eyeshadow palettes, luxury lip colors & glowing beauty essentials.',
     itemCount: '15+ Bundles',
     image: 'https://images.unsplash.com/photo-1522337360788-8b13dee7a37e?auto=format&fit=crop&q=80&w=800',

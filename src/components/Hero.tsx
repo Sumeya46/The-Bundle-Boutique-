@@ -1,6 +1,6 @@
 import React from 'react';
 import { ArrowRight, Send, Sparkles, ShieldCheck, Truck, Heart } from 'lucide-react';
-import heroImage from '../assets/images/luxury_hero_giftbox_1784966059372.jpg';
+import heroImage from '../assets/images/boutique_red_ribbon_box_1785587864603.jpg';
 
 interface HeroProps {
   onShopClick: () => void;
